@@ -11,7 +11,7 @@
         <Col :xs="24" :sm="8" style="text-align: center">
           <Input
             v-model="keywords"
-            placeholder="input keyword"
+            placeholder="Input Keyword"
             suffix="ios-search"
             style="width: 300px; position: fixed; top: 50%; margin-left: -140px"
             clearable
